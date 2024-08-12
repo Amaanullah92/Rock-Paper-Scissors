@@ -1,0 +1,19 @@
+{
+  "name": "rps_by_amaan",
+  "version": "1.0.2",
+  "description": "",
+  "main": "main.js",
+   "type": "module",
+   "publishConfig": {
+    "access": "public"
+  },"bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^22.0.0"
+  }
+}
